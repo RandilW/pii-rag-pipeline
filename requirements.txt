@@ -1,0 +1,27 @@
+# Core dependencies
+langchain==0.1.12
+langchain-community==0.0.27
+langchain-pinecone==0.0.2
+
+# Vector Store
+pinecone-client==3.1.0
+
+# LLM and Embeddings
+groq==0.4.2
+sentence-transformers==2.5.1
+transformers==4.38.2
+
+# Data Processing
+numpy==1.26.4
+pandas==2.2.1
+pdfminer==20191125
+unstructured==0.12.5
+
+# Notebook and Development
+jupyter==1.0.0
+ipython==8.22.2
+python-dotenv==1.0.1
+
+# Utilities
+tiktoken==0.6.0
+tqdm==4.66.2
