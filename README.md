@@ -83,4 +83,4 @@ The RAG pipeline consists of four main components:
 1. **Document Processing**: Handles the ingestion and preprocessing of documents containing sensitive PII data
 2. **Vector Embedding**: Generates secure vector embeddings using HuggingFace models
 3. **Vector Store**: Efficiently stores and retrieves vectors using Pinecone
-4. **LLM Integration**: Connects with Groq for intelligent query processing and response generation
+4. **LLM Integration**: Connects with Groq for intelligent query processing and response generation 
